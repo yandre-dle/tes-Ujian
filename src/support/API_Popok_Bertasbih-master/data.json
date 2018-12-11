@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Baron",
+      "password": "buntingNgesot",
+      "email": "bunting@ngesot.com"
+    },
+    {
+      "id": 2,
+      "username": "Bernacle",
+      "password": "bernacleKesurupan",
+      "email": "kesurupan@bernacle.com"
+    },
+    {
+      "username": "Keroro",
+      "email": "keroro@gmail.com",
+      "password": "abc123",
+      "phone": "085721451724",
+      "id": 3
+    },
+    {
+      "username": "Ferguso",
+      "email": "ferguso@gmail.com",
+      "password": "abc123",
+      "phone": "085721637152",
+      "id": 4
+    },
+    {
+      "username": "Esmeralda",
+      "email": "esme@uciha.com",
+      "password": "wibuakut",
+      "phone": "085721471254",
+      "id": 5
+    },
+    {
+      "username": "Esmeralda Hokage Pertama",
+      "email": "esme@meme.com",
+      "password": "buntingngesot",
+      "phone": "0895727146172541",
+      "id": 6
+    },
+    {
+      "username": "hihi",
+      "email": "hihi@gmail.com",
+      "password": "123",
+      "phone": "09876",
+      "id": 7
+    }
+  ],
+  "popok": [
+    {
+      "nama": "Popok Hokage 5",
+      "img": "https://ecs7.tokopedia.net/img/cache/700/product-1/2016/11/7/704126/704126_ce8a9d43-145d-4bf6-b23e-f087c76a94b3.jpg",
+      "harga": "200000",
+      "Quantity": "3",
+      "totalharga": "600000",
+      "id": 1
+    },
+    {
+      "nama": "Ngesot Abis!",
+      "img": "https://id-live.slatic.net/original/f16145c8b75b59d61162fbedb01d59dd.jpg",
+      "harga": "50000",
+      "Quantity": "2",
+      "totalharga": "100000",
+      "id": 2
+    },
+    {
+      "nama": "Popok keren",
+      "img": "https://www.obral.co/details/1050/images/universal_dr--p-adult-diapers-basic-popok-dewasa--size-xl-8-pcs-_full03.jpg",
+      "harga": "60000",
+      "Quantity": "2",
+      "totalharga": "120000",
+      "id": 3
+    }
+  ]
+}
